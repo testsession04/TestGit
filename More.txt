@@ -1,0 +1,15 @@
+More
+- how to create users
+- Customize and install jenkins plugins
+- using role based authrozation
+- configuring system environment
+- install maven
+- setup jenkins with Maven
+- send email notofications
+- Pipeline and how to create this
+- pipeline script from SCM
+- creating and configuring slave node
+- create parameterized jobs
+- use jenkins CLI to build jobs
+- multi branch pipelings
+- reporting in jenkins
